@@ -9,6 +9,7 @@ else:
     principal = 1000.0
     rate = 5.0
     time = 10
+    print("this is default value")
 
 simple_interest = (principal * rate * time) / 100
 
